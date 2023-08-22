@@ -2,6 +2,8 @@
 
 <b>Points</b>: 10 points
 
+link: https://play.picoctf.org/practice/challenge/170
+
 <h1>Problem</h1>
 
 Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
