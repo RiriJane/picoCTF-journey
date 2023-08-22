@@ -2,6 +2,8 @@
 
 Learning my way to cybersecurity. 
 
+<b>My profile :</b> https://play.picoctf.org/users/ririjane
+
 <b>Gym score :</b> 175
 
 <b>Challenges Solved:</b> 5
@@ -17,4 +19,8 @@ Learning my way to cybersecurity.
 |<b>Binary Exploitations</b> | 0 |
 | <b>Uncategorized</b> | 0 |
 
-My profile : https://play.picoctf.org/users/ririjane
+*****************************************************************************
+
+Notes: 
+- I am using Ubuntu 22.04 LTS.
+- I try not to use the hints provided.
