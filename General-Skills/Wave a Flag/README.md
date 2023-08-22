@@ -27,7 +27,8 @@ Try: sudo apt install <deb name>
 Unfortunately, since it's not a command. My shell doesn't recognized. I proceed by executing it in this way:
 
 ```
-$ ./warm
+┌──(riri㉿nb-riri)-[~/Downloads]
+└─$ ./warm
 
 ```
 
@@ -57,11 +58,11 @@ Hello user! Pass me a -h to learn what I can do!
 
 ```
 
-As it indicates, I added the flag -h and it gave me the flag. 
+As it indicates, I added the flag -h and it gave me the flag! 
 
 ```
 ┌──(riri㉿nb-riri)-[~/Downloads]
 └─$ ./warm -h
-Oh, help? I actually don't do much, but I do have this flag here: picoCTF{xxx}
+Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_755f3544}
 
 ```
