@@ -9,6 +9,7 @@ Link: https://play.picoctf.org/practice/challenge/147?category=5&page=1
 This file has a flag in plain sight (aka "in-the-clear").
 
 <h1>Solution</h1>
+
 1. Download flag.
 2. Go to the folder of the flag.
 3. Use the cat command to view the flag.
