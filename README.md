@@ -6,12 +6,12 @@ Learning my way to cybersecurity.
 
 <b>Gym score :</b> 185
 
-<b>Challenges Solved:</b> 5
+<b>Challenges Solved:</b> 6
 
 
 | Category       | Points        |
 | -------------  | ------------- |
-| <b>General Skills</b> | 175 |
+| <b>General Skills</b> | 185 |
 | <b>Web exploitation</b>  | 0 |
 |<b>Cryptography</b> | 0 |
 |<b>Reverse Engineering</b> | 0 |
