@@ -4,9 +4,9 @@ Learning my way to cybersecurity.
 
 <b>My profile :</b> https://play.picoctf.org/users/ririjane
 
-<b>Gym score :</b> 215
+<b>Gym score :</b> 265
 
-<b>Challenges Solved:</b> 7
+<b>Challenges Solved:</b> 8
 
 
 | Category       | Points        |
@@ -15,7 +15,7 @@ Learning my way to cybersecurity.
 | <b>Web exploitation</b>  | 0 |
 |<b>Cryptography</b> | 0 |
 |<b>Reverse Engineering</b> | 0 |
-|<b>Forensics</b> | 40 |
+|<b>Forensics</b> | 90 |
 |<b>Binary Exploitations</b> | 0 |
 | <b>Uncategorized</b> | 0 |
 
