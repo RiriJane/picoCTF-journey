@@ -23,4 +23,3 @@ Learning my way to cybersecurity.
 
 Notes: 
 - I am using Ubuntu 22.04 LTS.
-- I try not to use the hints provided.
