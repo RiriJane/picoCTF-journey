@@ -4,14 +4,14 @@ Learning my way to cybersecurity.
 
 <b>My profile :</b> https://play.picoctf.org/users/ririjane
 
-<b>Gym score :</b> 465
+<b>Gym score :</b> 490
 
-<b>Challenges Solved:</b> 10
+<b>Challenges Solved:</b> 11
 
 
 | Category       | Points        |
 | -------------  | ------------- |
-| <b>General Skills</b> | 175 |
+| <b>General Skills</b> | 200 |
 | <b>Web exploitation</b>  | 0 |
 |<b>Cryptography</b> | 0 |
 |<b>Reverse Engineering</b> | 0 |
