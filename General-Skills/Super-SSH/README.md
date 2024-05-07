@@ -8,8 +8,11 @@ Using a Secure Shell (SSH) is going to be pretty important.
 Additional details will be available after launching your challenge instance.
 
 <h1>Solution</h1>
+
 1. Start instance.
+
 2. You will be given a username, a domain and a port.
+
 ```
 cuddlebug-picoctf@webshell:~$ ssh ctf-player@titan.picoctf.net -p 56439
 The authenticity of host '[titan.picoctf.net]:56439 ([3.139.174.234]:56439)' can't be established.
